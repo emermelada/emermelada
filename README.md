@@ -2,7 +2,7 @@
   <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
 </p>
 
-I'm Javier, a Computer Science student at the University of Southern Denmark. I like building systems that keep working when things go wrong: boats that lose their radio, detectors graded live with one attempt, apps people use every day.
+I'm Javier, a Computer Science student at the University of Southern Denmark. I love learning new things, and the best way I know is to build something with them. Right now I'm moving into hardware: I printed and assembled an SO-101 robot arm and I'm writing its control and vision code myself.
 
 **[cv.javierarevalo.dev](https://cv.javierarevalo.dev)** · portfolio and CV
 
